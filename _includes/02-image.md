@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![El gato esteroides](https://octodex.github.com/steroidtocat)
