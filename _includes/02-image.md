@@ -1,1 +1,1 @@
-![El gato esteroides](https://octodex.github.com/steroidtocat)
+![El gato esteroides](https://octodex.github.com/steroidtocat.png)
